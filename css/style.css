@@ -12,6 +12,10 @@
     padding: .2em .4em;
     border-radius: 5px;
 }
+
+img{
+    width: 100%;
+}
 /* CONTAINER */
 .full-page-wrapper{
     width: 100%;
